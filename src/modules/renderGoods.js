@@ -1,3 +1,4 @@
+// Получение все объекты товаров 
 const renderGoods = (goods) => {
     const goodsWrapper = document.querySelector('.goods');
 
@@ -14,7 +15,7 @@ const renderGoods = (goods) => {
                             style="background-image: url('${goodsItem.img}')"></span>
                     </div>
                     <div class="card-body justify-content-between">
-                        <div class="card-price">${goodsItem.price} ₽</div>
+                        <div class="card-price">${goodsItem.price} ₴</div>
                         <h5 class="card-title">${goodsItem.title}</h5>
                         <button class="btn btn-primary">В корзину</button>
                     </div>

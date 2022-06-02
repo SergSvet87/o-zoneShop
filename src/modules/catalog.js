@@ -14,17 +14,17 @@ const catalog = () => {
     btnCatalog.addEventListener("click", () => {
         isOpen = !isOpen;
 
-        if (isOpen === true) {
+        if (isOpen) {
             catalogModal.style.display = "block";
         } else {
-            catalogModal.style.display = "";
+            catalogModal.style.display = '';
         }
     });
 
     catalogModalItems.forEach((item) => {
         item.addEventListener("click", () => {
             const text = item.textContent;
-            
+
             getData().then((data) => {
                 renderGoods(categoryFilter(data, text));
             });

@@ -1,3 +1,4 @@
+// Поиск товара через поисковую строку
 import getData from "./getData";
 import renderGoods from "./renderGoods";
 import { searchFilter } from "./filters";

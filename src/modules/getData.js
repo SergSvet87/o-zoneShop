@@ -1,6 +1,7 @@
+// Получение списка всех объектов(товаров)
 import search from "./search";
 
-const getData = () => {
+const getData = (str) => {
     return fetch(
         `https://o-zoneshop-default-rtdb.firebaseio.com/goods.json`
     )
@@ -9,4 +10,4 @@ const getData = () => {
     })
 }
 
-export default getData;
+export default getData; 

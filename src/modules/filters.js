@@ -1,3 +1,6 @@
+// Модуль фильтрации всех объектов согласно запроса
+
+// Фильтрация товаров в строке поиска
 export const searchFilter = (goods, value) => {
     
     return goods.filter((goodsItem) => {
@@ -5,6 +8,7 @@ export const searchFilter = (goods, value) => {
     })
 }
 
+// Фильтрация товаров по категориям
 export const categoryFilter = (goods, value) => {
     
     return goods.filter((goodsItem) => {
@@ -12,6 +16,7 @@ export const categoryFilter = (goods, value) => {
     })
 }
 
+// Фильтрация товаров по цене
 export const priceFilter = (goods, min, max) => {
     
     return goods.filter((goodsItem) => {
