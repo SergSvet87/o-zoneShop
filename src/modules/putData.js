@@ -1,3 +1,4 @@
+// Редактирование данных в БД
 const putData = () => {
   return fetch('https://o-zoneshop-default-rtdb.firebaseio.com/goods.json/24', {
           method: 'PUT',

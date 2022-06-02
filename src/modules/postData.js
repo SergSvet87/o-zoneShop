@@ -1,3 +1,4 @@
+// Добавление данных в БД
 const postData = () => {
     return fetch('https://o-zoneshop-default-rtdb.firebaseio.com/goods.json', {
             method: 'POST',

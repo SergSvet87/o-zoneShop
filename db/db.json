@@ -2,7 +2,7 @@
 	"goods": [{
 		"id": 0,
 		"title": "Игровая приставка Sony PlayStation 4 Pro",
-		"price": 33990,
+		"price": 30990,
 		"sale": false,
 		"img": "https://img.moyo.ua/img/gallery/4016/78/616011_middle.jpg?1511864460",
 		"hoverImg": "https://img.moyo.ua/img/gallery/4016/78/616011_middle.jpg?1511864460",
@@ -10,7 +10,7 @@
 	}, {
 		"id": 1,
 		"title": "Игровая приставка Sony PlayStation 3 Super Slim",
-		"price": 16499,
+		"price": 5699,
 		"sale": true,
 		"img": "https://content.rozetka.com.ua/goods/images/big/46609955.jpg",
 		"hoverImg": "https://content.rozetka.com.ua/goods/images/big/46609955.jpg",
@@ -18,14 +18,14 @@
 	}, {
 		"id": 2,
 		"title": "Игровая приставка Xbox One X",
-		"price": 39990,
+		"price": 22990,
 		"sale": false,
 		"img": "https://gamespot.com.ua/image/cache/catalog/Gamespotcontent/Xbox%20One/Xbox%20One%20X%201/igrovaya-konsol-xbox-one-x-1-tb-limited-gold-rush-edition-1-tb-eur-500x500.jpg",
 		"category": "Игровая приставка"
 	}, {
 		"id": 3,
 		"title": "Игровая приставка Xbox One S",
-		"price": 23411,
+		"price": 11099,
 		"sale": true,
 		"img": "https://hotline.ua/img/tx/179/1795645255.jpg",
 		"hoverImg": "https://hotline.ua/img/tx/179/1795645255.jpg",
@@ -33,7 +33,7 @@
 	}, {
 		"id": 4,
 		"title": "Игровая приставка Nintendo Switch",
-		"price": 24751,
+		"price": 12750,
 		"sale": false,
 		"img": "https://super.com.ua/upload/iblock/bc4/bc4d6a7c75f2828fa3a1d354cbbe2d4c.jpg",
 		"hoverImg": "https://super.com.ua/upload/iblock/bc4/bc4d6a7c75f2828fa3a1d354cbbe2d4c.jpg",
@@ -41,7 +41,7 @@
 	}, {
 		"id": 5,
 		"title": "Игровая приставка Sega Retro Genesis HD",
-		"price": 3624,
+		"price": 2200,
 		"sale": true,
 		"img": "https://hotline.ua/img/tx/284/2846203545.jpg",
 		"hoverImg": "https://hotline.ua/img/tx/284/2846203545.jpg",
@@ -49,7 +49,7 @@
 	}, {
 		"id": 6,
 		"title": "Игровая приставка Dendy Junior",
-		"price": 1551,
+		"price": 1531,
 		"sale": true,
 		"img": "https://images.prom.ua/1693569344_w640_h640_1693569344.jpg",
 		"hoverImg": "https://images.prom.ua/1693569344_w640_h640_1693569344.jpg",
@@ -57,7 +57,7 @@
 	}, {
 		"id": 7,
 		"title": "Игровая приставка Sony PlayStation Classic",
-		"price": 10445,
+		"price": 3560,
 		"sale": false,
 		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjZdhkyuSqtya-pScsloHQ2I59pO2y9WznClXrlavPu87zHBwQDuVU0XkqqupuFfDVMhw&usqp=CAU",
 		"hoverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjZdhkyuSqtya-pScsloHQ2I59pO2y9WznClXrlavPu87zHBwQDuVU0XkqqupuFfDVMhw&usqp=CAU",
@@ -65,7 +65,7 @@
 	}, {
 		"id": 8,
 		"title": "Клавиатура Logitech Wireless Keyboard K360",
-		"price": 2390,
+		"price": 1680,
 		"sale": false,
 		"img": "https://hotline.ua/img/tx/763/7638055.jpg",
 		"hoverImg": "https://hotline.ua/img/tx/763/7638055.jpg",
@@ -73,7 +73,7 @@
 	}, {
 		"id": 9,
 		"title": "Клавиатура Defender Element HB-195",
-		"price": 566,
+		"price": 260,
 		"sale": true,
 		"img": "https://cdn.27.ua/499/4b/12/4016914_2.jpeg",
 		"hoverImg": "https://cdn.27.ua/499/4b/12/4016914_2.jpeg",
@@ -81,7 +81,7 @@
 	}, {
 		"id": 10,
 		"title": "Игровая клавиатура Steelseries Apex M750- RU",
-		"price": 12848,
+		"price": 3300,
 		"sale": true,
 		"img": "https://img.moyo.ua/img/gallery/4094/85/651782_middle.jpg?1517569062",
 		"hoverImg": "https://img.moyo.ua/img/gallery/4094/85/651782_middle.jpg?1517569062",
@@ -89,7 +89,7 @@
 	}, {
 		"id": 11,
 		"title": "Мышь + коврик A4Tech Bloody V7M+B-071",
-		"price": 1649,
+		"price": 1200,
 		"sale": false,
 		"img": "https://zhuk.ua/content/images/38/480x262l50nn0/misha-a4tech-v7m-bloody-black-kovrik-bloody-b-071-80225012336425.jpg",
 		"hoverImg": "https://zhuk.ua/content/images/38/480x262l50nn0/misha-a4tech-v7m-bloody-black-kovrik-bloody-b-071-80225012336425.jpg",
@@ -97,7 +97,7 @@
 	}, {
 		"id": 12,
 		"title": "Мышь Trust Varo",
-		"price": 1097,
+		"price": 350,
 		"sale": true,
 		"img": "https://hotline.ua/img/tx/200/2003914415.jpg",
 		"hoverImg": "https://hotline.ua/img/tx/200/2003914415.jpg",
@@ -105,7 +105,7 @@
 	}, {
 		"id": 13,
 		"title": "Мышь Genius DX-120",
-		"price": 350,
+		"price": 160,
 		"sale": false,
 		"img": "https://img.moyo.ua/img/gallery/1998/80/170408_middle.jpg?1498780258",
 		"hoverImg": "https://img.moyo.ua/img/gallery/1998/80/170408_middle.jpg?1498780258",
@@ -113,7 +113,7 @@
 	}, {
 		"id": 14,
 		"title": "Коврик для мыши Orico MPA9040",
-		"price": 1279,
+		"price": 129,
 		"sale": true,
 		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEz59ehWoMZfJLnlUgeS4lC_wWJRWbuNvXfA&usqp=CAU",
 		"hoverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEz59ehWoMZfJLnlUgeS4lC_wWJRWbuNvXfA&usqp=CAU",
@@ -121,21 +121,21 @@
 	}, {
 		"id": 15,
 		"title": "Коврик для мыши Trust GXT 760 Glide RGB",
-		"price": 4959,
+		"price": 199,
 		"sale": false,
 		"img": "https://mzimg.com/big/d1/frkhfjpbtd1.jpg",
 		"category": "Периферия для ПК"
 	}, {
 		"id": 16,
 		"title": "Метро: Исход",
-		"price": 1479,
+		"price": 1149,
 		"sale": true,
 		"img": "https://content2.rozetka.com.ua/goods/images/big/11680415.jpg",
 		"category": "Игры и софт"
 	}, {
 		"id": 17,
 		"title": "Darksiders III. Коллекционное издание",
-		"price": 3990,
+		"price": 1999,
 		"sale": false,
 		"img": "https://crazy-hero.com/image/cache/catalog/Collectors_edition/Darksiders__III_Apocalypse_Edition_PS4/Darksiders_III_Apocalyps_Edition-800x600.jpeg",
 		"hoverImg": "https://crazy-hero.com/image/cache/catalog/Collectors_edition/Darksiders__III_Apocalypse_Edition_PS4/Darksiders_III_Apocalyps_Edition-800x600.jpeg",
@@ -143,14 +143,14 @@
 	}, {
 		"id": 18,
 		"title": "Mortal Kombat X",
-		"price": 1076,
+		"price": 599,
 		"sale": false,
 		"img": "https://artline.ua/storage/images/news/97/ru/1280_news_1599031499417600_0.jpg",
 		"category": "Игры и софт"
 	}, {
 		"id": 19,
 		"title": "Microsoft Windows 10 Home (32/64-bit)",
-		"price": 9412,
+		"price": 950,
 		"sale": false,
 		"img": "https://images.prom.ua/3784492309_w640_h640_litsenziya-windows-10.jpg",
 		"hoverImg": "https://images.prom.ua/3784492309_w640_h640_litsenziya-windows-10.jpg",
@@ -172,14 +172,14 @@
 	}, {
 		"id": 22,
 		"title": "Destiny (Xbox 360)",
-		"price": 723,
+		"price": 399,
 		"sale": true,
 		"img": "https://azon.market/image/catalog/v_1/product/3/215/2149082.jpg",
 		"category": "Игры и софт"
 	}, {
 		"id": 23,
 		"title": "Игра Onrush (PS4 Sony)",
-		"price": 1794,
+		"price": 640,
 		"sale": true,
 		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ddQk6R_Tv4egIxzDXd8rZej5_dY3Fx4_xw&usqp=CAU",
 		"category": "Игры и софт"

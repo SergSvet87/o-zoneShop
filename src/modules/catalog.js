@@ -1,3 +1,4 @@
+// Фильтрация товаров по категориям
 import getData from "./getData";
 import renderGoods from "./renderGoods";
 import {
@@ -11,6 +12,7 @@ const catalog = () => {
 
     let isOpen = false;
 
+    // Вызов модального окна с категориями товаров
     btnCatalog.addEventListener("click", () => {
         isOpen = !isOpen;
 
@@ -21,6 +23,7 @@ const catalog = () => {
         }
     });
 
+    // Отображение товаров по категориям
     catalogModalItems.forEach((item) => {
         item.addEventListener("click", () => {
             const text = item.textContent;
