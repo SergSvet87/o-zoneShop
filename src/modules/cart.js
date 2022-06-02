@@ -2,7 +2,6 @@
 
 import renderCart from "./renderCart";
 import postDataCart from "./postDataCart";
-import count from "./count";
 
 const cart = () => {
   const cartBtn = document.getElementById('cart');
@@ -51,9 +50,9 @@ const cart = () => {
       cart.push(goodItem)
 
       localStorage.setItem('cart', JSON.stringify(cart))
-
-      // count();
     }
+
+    count();
   });
 
   // Удаление товара из  корзины
@@ -76,9 +75,9 @@ const cart = () => {
       cartTotal.textContent = cart.reduce((sum, goodItem) => {
         return sum + goodItem.price;
       }, 0);
-
-      count();
     }
+    
+    count();
   })
 
   // Оформление заказ (отправка запроса на сервер)
@@ -94,8 +93,18 @@ const cart = () => {
       cartTotal.textContent = 0;
     })
 
-    count();
+    count()
   })
+
+  // Подсчет количества товаров в корзине
+  const count = () => {
+    const cartCounter = document.querySelector('.counter');
+
+    const cart = localStorage.getItem('cart') ?
+      JSON.parse(localStorage.getItem('cart')) : [];
+
+    cartCounter.textContent = cart.length;
+  }
 }
 
 export default cart
